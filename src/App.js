@@ -14,6 +14,10 @@ export default function App() {
             target="blank"
           >
             open-sourced on Github
+          </a>{" "}
+          and is{" "}
+          <a href="https://legendary-mousse-094370.netlify.app/" target="blank">
+            hosted on Netlify
           </a>
         </footer>
       </div>
