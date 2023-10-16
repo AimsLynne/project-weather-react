@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://legendary-mousse-094370.netlify.app/"
+            href="https://app.netlify.com/sites/legendary-mousse-094370/overview"
             target="blank"
             rel="noopener noreferrer"
           >
