@@ -22,7 +22,7 @@ export default function App() {
             target="blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify
+            hosted on Netlify.
           </a>
         </footer>
       </div>
